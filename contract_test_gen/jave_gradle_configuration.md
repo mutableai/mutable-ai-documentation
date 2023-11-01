@@ -9,5 +9,4 @@ testImplementation "au.com.dius.pact.provider:junit5:4.2.10"
 testImplementation "au.com.dius:pact-jvm-provider-spring:4.0.0"
 ```
 
-Step 2.  Make sure there's a gradle tasks that runs the generated pact test
-
+Step 2.  Make sure there's a gradle tasks that runs the generated pact test.
